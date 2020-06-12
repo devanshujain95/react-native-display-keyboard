@@ -45,6 +45,12 @@ import DisplayKeyboard from 'react-native-display-keyboard-feature-display_keybo
 - [x] Number Keypad
 - [ ] Alphabet Keyboard
 
+## Contributions
+All contributions including new features, requests, bug fixes are open for everyone. Delighted, if someone contributes PR.
+
+## License
+[MIT](https://opensource.org/licenses/MIT)
+
 
 
 
