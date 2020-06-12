@@ -1,0 +1,41 @@
+{
+  "name": "react-native-display-keyboard",
+  "version": "0.1.0",
+  "description": "An on-screen keyboard that helps users to insert input characters directly from the display instead from keyboard.",
+  "main": "./src/DisplayKeyboard",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanshujain95/react-native-display-keyboard.git"
+  },
+  "keywords": [
+    "react-native",
+    "keyboard",
+    "keypad",
+    "virtual-keyboard",
+    "onscreen-keyboard",
+    "display-keyboard"
+  ],
+  "author": "Devanshu Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devanshujain95/react-native-display-keyboard/issues"
+  },
+  "homepage": "https://github.com/devanshujain95/react-native-display-keyboard#readme",
+  "dependencies": {
+    "react": "16.11.0",
+    "react-native": "0.62.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/runtime": "^7.10.2",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "@types/react": "^16.9.36",
+    "@types/react-native": "^0.62.13",
+    "eslint": "^7.2.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "typescript": "^3.9.5"
+  }
+}
