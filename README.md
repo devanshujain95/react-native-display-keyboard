@@ -7,7 +7,7 @@ iOS                 |  Android
 ![](ios-demo.gif)   |  ![](android-demo.gif)
 
 
-**Fully customizable on-screen keyboard that lets the keyboard to adapt as per the app's theme.**
+**Fully customizable on-screen keyboard that lets the keyboard to adapt design as per the app's theme.**
 
 ## Installation
 
