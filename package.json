@@ -1,6 +1,6 @@
 {
   "name": "react-native-display-keyboard",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "An on-screen keyboard that helps users to insert input characters directly from the display instead from keyboard.",
   "main": "./src/DisplayKeyboard",
   "scripts": {
